@@ -1,0 +1,11 @@
+		#foreach($news in $newsPager.voList)
+			<tr><td style="text-align: left;"><a href="$news.newsUrl" title="$news.newsContent">$news.newsContent</a></td></tr>
+		#end
+		#if($pager.voList.size()==0)
+			<tr>
+				<td style="text-align: center;padding: 10px;">
+								哎……太TM冷清了……一点动静都没有
+				</td>
+			</tr>
+		#end
+</table>

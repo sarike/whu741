@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="33"
+   name=""
+   committed-date="2012-03-13T13:41:29.059657Z"
+   url="https://whu741.googlecode.com/svn/trunk/whu741/WebRoot/js/My97DatePicker"
+   last-author="rusb@rusb.net"
+   kind="dir"
+   repos="https://whu741.googlecode.com/svn"
+   revision="89"/>
+<entry
+   name="lang"
+   kind="dir"/>
+<entry
+   name="skin"
+   kind="dir"/>
+<entry
+   committed-rev="33"
+   name="calendar.js"
+   text-time="2012-03-13T02:49:39.250000Z"
+   committed-date="2012-03-13T13:41:29.059657Z"
+   checksum="56e6caecd692c51d12fb14eaa2bcb058"
+   last-author="rusb@rusb.net"
+   kind="file"/>
+<entry
+   name="开发包"
+   kind="dir"/>
+<entry
+   committed-rev="33"
+   name="WdatePicker.js"
+   text-time="2012-03-13T02:49:39.281250Z"
+   committed-date="2012-03-13T13:41:29.059657Z"
+   checksum="7aa728c7effe8f47a30c6dbbe9b7e3db"
+   last-author="rusb@rusb.net"
+   kind="file"/>
+</wc-entries>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="13"
+   name=""
+   committed-date="2012-03-12T12:27:57.691247Z"
+   url="https://whu741.googlecode.com/svn/trunk/whu741/WebRoot/js/editor/themes/default"
+   last-author="rusb@rusb.net"
+   kind="dir"
+   uuid="d1c1b903-bc57-b77a-c2b8-a65115845111"
+   repos="https://whu741.googlecode.com/svn"
+   revision="89"/>
+<entry
+   committed-rev="13"
+   name="default.png"
+   text-time="2012-03-12T07:16:55.171875Z"
+   committed-date="2012-03-12T12:27:57.691247Z"
+   checksum="380f54af87106db9594a168ac589dfaf"
+   last-author="rusb@rusb.net"
+   kind="file"
+   prop-time="2012-03-12T12:28:14.093750Z"/>
+<entry
+   committed-rev="13"
+   name="default.css"
+   text-time="2012-03-12T07:16:55.171875Z"
+   committed-date="2012-03-12T12:27:57.691247Z"
+   checksum="5ae2f6c720aee8ad0613d16023d7afa9"
+   last-author="rusb@rusb.net"
+   kind="file"/>
+<entry
+   committed-rev="13"
+   name="bg.gif"
+   text-time="2012-03-12T07:16:55.156250Z"
+   committed-date="2012-03-12T12:27:57.691247Z"
+   checksum="809ed6013a65df3a96190b5d1bf5a07e"
+   last-author="rusb@rusb.net"
+   kind="file"
+   prop-time="2012-03-12T12:28:14.156250Z"/>
+</wc-entries>

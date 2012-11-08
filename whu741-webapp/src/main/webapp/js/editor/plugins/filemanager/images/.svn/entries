@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="14"
+   name=""
+   committed-date="2012-03-12T12:29:34.253225Z"
+   url="https://whu741.googlecode.com/svn/trunk/whu741/WebRoot/js/editor/plugins/filemanager/images"
+   last-author="rusb@rusb.net"
+   kind="dir"
+   uuid="d1c1b903-bc57-b77a-c2b8-a65115845111"
+   repos="https://whu741.googlecode.com/svn"
+   revision="89"/>
+<entry
+   committed-rev="14"
+   name="folder-16.gif"
+   text-time="2012-03-12T07:16:54.984375Z"
+   committed-date="2012-03-12T12:29:34.253225Z"
+   checksum="08558362d8f00e135035e5a2494026f2"
+   last-author="rusb@rusb.net"
+   kind="file"
+   prop-time="2012-03-12T12:29:47.703125Z"/>
+<entry
+   committed-rev="14"
+   name="folder-64.gif"
+   text-time="2012-03-12T07:16:55.000000Z"
+   committed-date="2012-03-12T12:29:34.253225Z"
+   checksum="5c647783ae5e03d772efb4b4d68851c9"
+   last-author="rusb@rusb.net"
+   kind="file"
+   prop-time="2012-03-12T12:29:46.843750Z"/>
+<entry
+   committed-rev="14"
+   name="file-16.gif"
+   text-time="2012-03-12T07:16:54.984375Z"
+   committed-date="2012-03-12T12:29:34.253225Z"
+   checksum="361a2bd53c1d95a6c314d0d0cf5e3730"
+   last-author="rusb@rusb.net"
+   kind="file"
+   prop-time="2012-03-12T12:29:47.421875Z"/>
+<entry
+   committed-rev="14"
+   name="file-64.gif"
+   text-time="2012-03-12T07:16:54.984375Z"
+   committed-date="2012-03-12T12:29:34.253225Z"
+   checksum="51a0d98de0ff74f4de9c3fc164765333"
+   last-author="rusb@rusb.net"
+   kind="file"
+   prop-time="2012-03-12T12:29:47.937500Z"/>
+<entry
+   committed-rev="14"
+   name="go-up.gif"
+   text-time="2012-03-12T07:16:55.000000Z"
+   committed-date="2012-03-12T12:29:34.253225Z"
+   checksum="ae1afe6d7db5623eb9270b0c71caa21c"
+   last-author="rusb@rusb.net"
+   kind="file"
+   prop-time="2012-03-12T12:29:47.515625Z"/>
+</wc-entries>

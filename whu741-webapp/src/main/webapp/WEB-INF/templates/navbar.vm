@@ -1,0 +1,30 @@
+<ul>
+		<li><a href="./index.rusb">网站首页</a></li>
+		<li><a href="./topiclist.do">历史题目</a></li>
+		<li><a href="./articlelist.do">文章列表</a></li>
+		#foreach($sPage in $pageList)
+			<li><a href="pages/$sPage.pageUrl }">$sPage.articleTitle</a></li>
+		#end
+		#set($user = false)
+		#set($user = $session.getAttribute("user"))
+		#if($user)
+						<li class="right"><a href="./logoff.do">退出登录</a></li>
+						<li id="welcome">欢迎回来！</li>
+						<li id="menu" onmouseout="hideSubMenu()" onmouseover="this.style.cursor='pointer';displaySubMenu()">
+						<font color="red">$user.nickname ($user.username)</font>
+							<ul id="secondMenu"> 
+								<li><a href="./admin/userInfo.jsp">个人信息</a></li> 
+								#if($user.valided)
+									<li><a href="./topiclist.do?type=personal">我发布的题目</a></li> 
+									<li><a href="./admin/pubtopic.jsp">发布一个新题目</a></li> 
+								#end
+								#if($user.authority==1)
+									<li><a href="./admin/pubarticles.jsp">发布一篇文章</a></li>
+								#end
+							</ul> 
+						</li>
+					#end
+					#if(!$user)
+						<li><a href="./login.jsp">登录</a></li>
+					#end
+</ul>

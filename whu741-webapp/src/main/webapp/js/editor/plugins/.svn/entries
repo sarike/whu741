@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="14"
+   name=""
+   committed-date="2012-03-12T12:29:34.253225Z"
+   url="https://whu741.googlecode.com/svn/trunk/whu741/WebRoot/js/editor/plugins"
+   last-author="rusb@rusb.net"
+   kind="dir"
+   uuid="d1c1b903-bc57-b77a-c2b8-a65115845111"
+   repos="https://whu741.googlecode.com/svn"
+   revision="89"/>
+<entry
+   name="media"
+   kind="dir"/>
+<entry
+   name="lineheight"
+   kind="dir"/>
+<entry
+   name="pagebreak"
+   kind="dir"/>
+<entry
+   name="preview"
+   kind="dir"/>
+<entry
+   name="image"
+   kind="dir"/>
+<entry
+   name="quickformat"
+   kind="dir"/>
+<entry
+   name="table"
+   kind="dir"/>
+<entry
+   name="flash"
+   kind="dir"/>
+<entry
+   name="link"
+   kind="dir"/>
+<entry
+   name="emoticons"
+   kind="dir"/>
+<entry
+   name="plainpaste"
+   kind="dir"/>
+<entry
+   name="insertfile"
+   kind="dir"/>
+<entry
+   name="wordpaste"
+   kind="dir"/>
+<entry
+   name="code"
+   kind="dir"/>
+<entry
+   name="filemanager"
+   kind="dir"/>
+<entry
+   name="anchor"
+   kind="dir"/>
+<entry
+   name="clearhtml"
+   kind="dir"/>
+<entry
+   name="template"
+   kind="dir"/>
+<entry
+   name="map"
+   kind="dir"/>
+</wc-entries>

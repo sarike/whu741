@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="33"
+   name=""
+   committed-date="2012-03-13T13:41:29.059657Z"
+   url="https://whu741.googlecode.com/svn/trunk/whu741/WebRoot/js/My97DatePicker/%E5%BC%80%E5%8F%91%E5%8C%85/lang"
+   last-author="rusb@rusb.net"
+   kind="dir"
+   repos="https://whu741.googlecode.com/svn"
+   revision="89"/>
+<entry
+   committed-rev="33"
+   name="zh-tw.js"
+   text-time="2012-03-13T02:49:39.281250Z"
+   committed-date="2012-03-13T13:41:29.059657Z"
+   checksum="5d0fbfa7d0ad2841adc6ec8f96ece42e"
+   last-author="rusb@rusb.net"
+   kind="file"/>
+<entry
+   committed-rev="33"
+   name="zh-cn.js"
+   text-time="2012-03-13T02:49:39.281250Z"
+   committed-date="2012-03-13T13:41:29.059657Z"
+   checksum="7250d635a4dbcdef17a0ac7e4366f6fb"
+   last-author="rusb@rusb.net"
+   kind="file"/>
+<entry
+   committed-rev="33"
+   name="en.js"
+   text-time="2012-03-13T02:49:39.281250Z"
+   committed-date="2012-03-13T13:41:29.059657Z"
+   checksum="71ed96d7a61bf1f078eadeaae518ab9c"
+   last-author="rusb@rusb.net"
+   kind="file"/>
+</wc-entries>

@@ -1,0 +1,27 @@
+﻿<!DOCTYPE HTML>
+<html>
+	<head>
+	    <title>风流倜傥741，每日一题！$pageTitle</title>
+		#@headerMeta()
+			<meta http-equiv="keywords" content="$keyWords ,找工作,面试题,IT,计算机,算法,编程语言,java,c,c++,设计模式">
+			<meta http-equiv="description" content="风流倜傥741，每日一天，天天抽点空闲时间做几个题目，希望毕业后能找份好工作。">
+		#end
+	</head>
+	<body>
+	<div id="container"  class="tb_list2">
+		<div id="header">
+			#parse("header.vm")
+		</div>
+		<div class="nav">
+			#parse("navbar.vm")
+		</div>
+		<div id="content">
+			$screen_content
+		</div>
+		<div id="footer">
+			#parse("footer.vm")
+		</div>
+	</div>
+	</body>
+</html>
+

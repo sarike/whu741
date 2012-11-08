@@ -1,0 +1,55 @@
+﻿#macro(headerMeta)
+	<meta http-equiv="pragma" content="no-cache">
+	<meta http-equiv="cache-control" content="no-cache">
+	<meta http-equiv="expires" content="0">    
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	$!bodyContent
+	<script charset="utf-8" src="./js/editor/kindeditor.js"></script>
+	<script charset="utf-8" src="./js/editor/lang/zh_CN.js"></script>
+	<link type="text/css" rel="stylesheet" href="./js/editor/plugins/code/shCoreDefault.css"/>
+	<link rel="stylesheet" type="text/css" href="./css/style.css">
+	<link rel="stylesheet" href="./css/validationEngine.jquery.css" type="text/css"/>
+	<script type="text/javascript" src="./js/editor/plugins/code/shCore.js"></script>
+	<script type="text/javascript" src="./js/syntax/shBrushCpp.js"></script>
+	<script type="text/javascript" src="./js/syntax/shBrushJava.js"></script>
+	<script type="text/javascript" src="./js/741utils.js"></script>
+	<script language="javascript" type="text/javascript" src="./js/My97DatePicker/WdatePicker.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+	<script src="./js/validation/jquery.validationEngine-zh_CN.js" type="text/javascript" charset="utf-8"></script>
+    <script src="./js/validation/jquery.validationEngine.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript">
+		SyntaxHighlighter.all();
+	</script>
+#end
+
+#macro(pager $url $pager)
+<table>
+	<tr><th>
+	共$pager.recodeCount条
+	<a href="$url">首页</a>
+	#if($pager.pageIndex!=1)
+		<a href="$url?pageIndex=$pager.prePageIndex">上一页</a>
+	#else
+		<a href="javascript:void(0)">上一页</a>
+	#end
+	#foreach($index in $pager.pageIndexArray)
+		#if($index==$pager.pageIndex)
+			<a style="text-decoration: underline;color:red;" href="javascript:void(0)">$index</a>
+		#else
+			<a href="$url?pageIndex=$index">$index</a>
+		#end
+	#end
+	...
+	#if($pager.pageIndex>5)
+		<a style="text-decoration: underline;color:red;" href="javascript:void(0)">$pager.pageIndex</a>
+		...
+	#end
+	#if($pager.pageIndex!=$pager.pageCount)
+		<a href="$url?pageIndex=$pager.nextPageIndex">下一页</a>
+	#else
+		<a href="javascript:void(0)">下一页</a>
+	#end
+	<a href="$url?pageIndex=$pager.pageCount">尾页</a>
+	</th></tr>
+</table>
+#end

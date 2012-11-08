@@ -1,0 +1,13 @@
+#foreach($topic in $topicPager.voList)
+<table class="listTb">
+<tr><th class="title">
+题目名称<font color="red">($foreach.count)</font>：
+<a href="./discusspri.do?topicid=$topic.topicId"> $topic.topicName</a>
+</th></tr>
+<tr><td style="text-align: left">$topic.topicContent</td></tr>
+<tr><td style="text-align: right">
+该题目由 <font color="red">$topic.pubUser.getNickname()($topic.pubUser.getUsername())</font>
+于$topic.pubTime 倾情奉献</td>
+</tr>
+</table>
+#end

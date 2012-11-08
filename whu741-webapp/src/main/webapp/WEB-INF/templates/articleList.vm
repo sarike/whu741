@@ -1,0 +1,39 @@
+	<div id="leftBar">				
+		#pager("./articlelist.do" $articlePager)
+		<table>	
+				<tr><th>文章列表</th></tr>
+				#parse("articles.vm")
+		</table>	
+		#pager("./articlelist.do" $articlePager)
+	</div>
+	<div id="sideBar">
+			<table class="listTb">
+					<tr><th>风流公告</th></tr>
+					<tr>
+						<td>
+							祝所有的同学都能找个好工作！！
+							风流倜傥交流群：59142816
+						</td>
+					</tr>
+			</table>
+			<table class="listTb">
+					<tr><th>热门题目<span class="moreLable"><a href="#">更多>></a></span></th></tr>
+					#foreach($topic in $hotestTopicPager.voList)
+						<tr><td style="text-align: left;"><a href="./discusspri.do?topicid=$topic.topicId">[ $topic.pubTime ]<br>$topic.topicName</a></td></tr>
+					#end
+			</table>
+			<table class="listTb">
+					<tr><th>热门文章<span class="moreLable"><a href="#">更多>></a></span></th></tr>
+				#foreach($article in $hotestArticlePager.voList)
+					<tr>
+						<td style="text-align: left;"><a href="./viewArticle.do?articleid=$article.articleId" title="$article.articleTitle">$article.articleTitle<br>[ $article.pubTime ]</a>
+						</td>
+					</tr>
+				#end
+			</table>
+			
+			<table class="listTb">
+					<tr><th>三好学生</th></tr>
+						#parse("users.vm")
+			</table>
+		</div>

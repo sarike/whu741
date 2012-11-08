@@ -1,0 +1,17 @@
+﻿<!DOCTYPE HTML>
+<html>
+	<head>
+	    <title>出错了……</title>
+	    <link rel="stylesheet" type="text/css" href="./css/style.css">
+	</head>
+	<body>
+	<div id="container"  class="tb_list2">
+		<div style="width:400px;margin: 100px auto;">
+	    <table>
+		    <tr><th colspan="2" style="text-align: center;">出错了，真是不好意思…… </th></tr>
+	    </table>
+    </div>
+	</div>
+	</body>
+</html>
+

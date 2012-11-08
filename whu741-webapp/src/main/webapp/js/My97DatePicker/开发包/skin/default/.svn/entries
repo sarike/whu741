@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="33"
+   name=""
+   committed-date="2012-03-13T13:41:29.059657Z"
+   url="https://whu741.googlecode.com/svn/trunk/whu741/WebRoot/js/My97DatePicker/%E5%BC%80%E5%8F%91%E5%8C%85/skin/default"
+   last-author="rusb@rusb.net"
+   kind="dir"
+   repos="https://whu741.googlecode.com/svn"
+   revision="89"/>
+<entry
+   committed-rev="33"
+   name="img.gif"
+   text-time="2012-03-13T02:49:39.281250Z"
+   committed-date="2012-03-13T13:41:29.059657Z"
+   checksum="ed11a2b68742ccf22763d3e8f2454516"
+   last-author="rusb@rusb.net"
+   kind="file"
+   prop-time="2012-03-13T13:39:45.906250Z"/>
+<entry
+   committed-rev="33"
+   name="datepicker.css"
+   text-time="2012-03-13T02:49:39.281250Z"
+   committed-date="2012-03-13T13:41:29.059657Z"
+   checksum="396521ff7d7464531dd71d29c1417e63"
+   last-author="rusb@rusb.net"
+   kind="file"/>
+<entry
+   committed-rev="33"
+   name="Thumbs.db"
+   text-time="2012-03-13T02:49:39.296875Z"
+   committed-date="2012-03-13T13:41:29.059657Z"
+   checksum="1dfd45f5df23ebca18435d19d69b30e2"
+   last-author="rusb@rusb.net"
+   kind="file"
+   prop-time="2012-03-13T13:39:46.140625Z"/>
+</wc-entries>

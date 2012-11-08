@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="14"
+   name=""
+   committed-date="2012-03-12T12:29:34.253225Z"
+   url="https://whu741.googlecode.com/svn/trunk/whu741/WebRoot/js/editor/plugins/template"
+   last-author="rusb@rusb.net"
+   kind="dir"
+   uuid="d1c1b903-bc57-b77a-c2b8-a65115845111"
+   repos="https://whu741.googlecode.com/svn"
+   revision="89"/>
+<entry
+   name="html"
+   kind="dir"/>
+<entry
+   committed-rev="13"
+   name="template.js"
+   text-time="2012-03-12T07:16:55.125000Z"
+   committed-date="2012-03-12T12:27:57.691247Z"
+   checksum="303b4613a27c42914c6da6acb4869840"
+   last-author="rusb@rusb.net"
+   kind="file"/>
+</wc-entries>

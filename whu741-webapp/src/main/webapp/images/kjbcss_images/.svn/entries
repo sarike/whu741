@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2012-03-11T14:36:36.749850Z"
+   url="https://whu741.googlecode.com/svn/trunk/whu741/WebRoot/images/kjbcss_images"
+   last-author="rusb@rusb.net"
+   kind="dir"
+   uuid="d1c1b903-bc57-b77a-c2b8-a65115845111"
+   repos="https://whu741.googlecode.com/svn"
+   revision="89"/>
+<entry
+   committed-rev="3"
+   name="error_h.gif"
+   text-time="2012-03-12T03:48:43.937500Z"
+   committed-date="2012-03-11T14:36:36.749850Z"
+   checksum="fca06a6e436b9e60495ac223d18665b3"
+   last-author="rusb@rusb.net"
+   kind="file"
+   prop-time="2012-03-12T03:48:43.875000Z"/>
+<entry
+   committed-rev="3"
+   name="helptu.gif"
+   text-time="2012-03-12T03:48:43.953125Z"
+   committed-date="2012-03-11T14:36:36.749850Z"
+   checksum="265fcd639649fd61ca1d7272b84b1858"
+   last-author="rusb@rusb.net"
+   kind="file"
+   prop-time="2012-03-12T03:48:43.890625Z"/>
+<entry
+   committed-rev="3"
+   name="tb_title.jpg"
+   text-time="2012-03-12T03:48:43.968750Z"
+   committed-date="2012-03-11T14:36:36.749850Z"
+   checksum="3af74481dec4d2fb804a4e4113c8572a"
+   last-author="rusb@rusb.net"
+   kind="file"
+   prop-time="2012-03-12T03:48:43.890625Z"/>
+<entry
+   committed-rev="3"
+   name="tb_title3.jpg"
+   text-time="2012-03-12T03:48:43.968750Z"
+   committed-date="2012-03-11T14:36:36.749850Z"
+   checksum="eb05f50cc0572c4103c791140d8c839a"
+   last-author="rusb@rusb.net"
+   kind="file"
+   prop-time="2012-03-12T03:48:43.906250Z"/>
+<entry
+   committed-rev="3"
+   name="link_dou.gif"
+   text-time="2012-03-12T03:48:43.984375Z"
+   committed-date="2012-03-11T14:36:36.749850Z"
+   checksum="a3b54ef81c454b0219faad8bf066ac33"
+   last-author="rusb@rusb.net"
+   kind="file"
+   prop-time="2012-03-12T03:48:43.921875Z"/>
+<entry
+   committed-rev="3"
+   name="menu_bg.jpg"
+   text-time="2012-03-12T03:48:44.000000Z"
+   committed-date="2012-03-11T14:36:36.749850Z"
+   checksum="330518e12f816246342e5899557cf9d3"
+   last-author="rusb@rusb.net"
+   kind="file"
+   prop-time="2012-03-12T03:48:43.921875Z"/>
+<entry
+   committed-rev="3"
+   name="input_bg.gif"
+   text-time="2012-03-12T03:48:44.000000Z"
+   committed-date="2012-03-11T14:36:36.749850Z"
+   checksum="c8513f30b9f745c5d230fb68d8395350"
+   last-author="rusb@rusb.net"
+   kind="file"
+   prop-time="2012-03-12T03:48:43.921875Z"/>
+<entry
+   committed-rev="3"
+   name="bullet20.gif"
+   text-time="2012-03-12T03:48:44.015625Z"
+   committed-date="2012-03-11T14:36:36.749850Z"
+   checksum="8752f57a0033be92066c830ba0f35c7f"
+   last-author="rusb@rusb.net"
+   kind="file"
+   prop-time="2012-03-12T03:48:43.937500Z"/>
+</wc-entries>

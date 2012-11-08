@@ -1,0 +1,291 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-size: 12px;
+	font-family: "微软雅黑" "宋体";
+}
+body { /*设置默认字体,大小,颜色,居中*/
+	color: #1E1E1E;
+	text-align: center;
+}
+.preLoadStyle{
+	width: 860px;
+	border: 1px solid #C6E2FF;
+	height: 100px;
+	line-height: 100px;
+}
+.moreLable{
+	float: right;
+	}
+#menu{
+	position: relative;
+	float: right;
+}
+#menu ul {
+	position: absolute;
+	top:20px;
+	left:0px;
+	float:none;
+	list-style-type:none; 
+	display: none;
+	border: 1px solid;
+	width:100px;
+	background-color: #C6E2FF;
+} 
+#menu ul li {
+	float:none;
+	list-style-type:none; 
+	} 
+#welcome{
+	float:right;
+}
+.right{
+	float:right;
+}
+.formTb th{
+	text-align:right;
+}
+.listTb th{
+	text-align:left;
+}
+.dissContent{
+	margin:5px 10px;
+	padding:0 10px;
+	line-height: 25px;
+	background-color:white;
+	border: 1px dotted;
+}
+.discussList{
+	border: 1px solid #C6E2FF;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	}
+.discussList ul{
+	list-style: none;
+	}
+.discussList li{
+	line-height:20px;
+	margin: 0px ;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+li.even{
+	text-align:left;
+	background-color:#EBF3FB;
+}
+li.odd{
+	text-align:left;
+	background-color:#C6E2FF;
+}
+.list td{
+	padding:10px;
+	border:1px solid;
+	text-align: center;
+	}
+.list td a{
+	margin-left:5px; 
+	}
+#header{
+	margin:10px auto;
+	text-align: center;
+	font-size: 28px;
+	color: red;
+	height: 150px;
+	line-height: 150px;
+	border:1px solid #AACCEE;
+	background-color:#EBF3FB;
+}
+#footer{
+	clear:both;
+	margin-top:10px;
+	padding-top:40px;
+	width: 100%;
+	border:1px solid #AACCEE;
+	height:100px;
+	background-color:#EBF3FB;
+	line-height: 30px;
+	}
+.loginBox{
+	border-bottom:1px dotted;
+	padding: 5px;
+ }
+.nav{
+	border: 1px solid #AACCEE;
+	height:35px;
+	line-height: 25px;
+	margin: 10px auto;
+}
+.nav a{
+	margin-left: 5px;
+}
+.nav ul{
+	margin:0px;
+}
+.nav li{
+	list-style:none;
+	margin:5px;
+	float:left;
+}
+#container{
+	width: 1024px;
+	margin: 0px auto;
+}
+hr{
+	margin-bottom: 10px;
+	margin-bottom: 10px;
+	color:#AACCEE;
+	}
+
+input,textarea,select {
+	font-size: 12px;
+	vertical-align: middle;
+}
+
+/*设置链接样式，默认的<列表>，页面的和帮助的,操作的*/
+a {
+	font-size: 12px;
+	color: #5BADFF;
+	text-decoration: none;
+}
+
+a:link {
+	font-size: 12px;
+	text-decoration: none;
+}
+
+a:visited {
+	font-size: 12px;
+	text-decoration: none;
+}
+
+a:hover {
+	font-size: 12px;
+	color: red;
+	text-decoration: none;
+}
+.title a {
+	color: #666666;
+	font-size: 14px;
+	text-decoration: none;
+}
+
+.title a:link {
+	font-size: 14px;
+	text-decoration: none;
+}
+
+.title a:visited {
+	font-size: 14px;
+	text-decoration: none;
+}
+
+.title a:hover {
+	font-size: 14px;
+	color: red;
+	text-decoration: none;
+}
+
+
+/*设置提示*的格式,红色*/
+i {
+	color: #CC0000;
+	margin-right: 4px;
+	margin-left: 4px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+}
+
+
+body .input_btn { /*按钮背景*/
+	background: transparent url(../images/kjbcss_images/input_bg.gif)
+		repeat-x scroll 0%;
+	border: 1px solid #AACCEE;
+	color: #333333;
+	height: 24px;;
+	padding-left: 10px;;
+	padding-right: 10px;
+	cursor: hand;
+}
+
+.fullWidth{
+	width: 100%;
+	}
+#leftBar{
+	width:814px;
+	float: left;
+	}
+#sideBar{
+	width:200px;
+	float: left;
+	margin-left:10px;
+	}
+.tb_list2{
+	}
+/*第二种表格样式，每行内容太多的时候可以使用本样式，以避免页面太过拥挤*/
+.tb_list2 table {
+	margin-bottom:10px;
+	border-collapse: collapse;
+	width: 100%;
+	background: #ffffff;
+	border: 1px solid #AACCEE;
+}
+
+.tb_list2 table caption {
+	text-align: left;
+	color: #660033;
+	font-weight: bolder;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	border-bottom: none;
+	border-top: none;
+	font-size: 14px;
+}
+
+.tb_list2 th,.tb_list2 td {
+	margin: 0;
+	padding: 0px 5px;
+	line-height:25px;
+	border-bottom: 1px solid #AACCEE;
+}
+
+.tb_list2  th {
+	color: #666666;
+	background: #C6E2FF;
+	border-right: 2px thin #ffffff;
+}
+
+.tb_list2 tr {
+	background: #EBF3FB none repeat scroll 0%;
+}
+
+.tb_list2 tr ul {
+	list-style-image: url(../images/kjbcss_images/bullet20.gif);
+	list-style-type: circle;
+	width: 90%;
+	padding: 3px 3px;
+}
+
+.tb_list2 tr li {
+	margin-left:20px;
+	float: left;
+	font-size: 13px;
+	width: 45%;
+}
+
+/*当内容太多的时候可以使用本样式*/
+.tb_list2 tr .li2 {
+	margin-left:20px;
+	float: left;
+	margin-right: 30px;
+	font-size: 13px;
+	font-weight: 550;
+	width: 100%;
+	text-align: left;
+}
+table.editorContainer td{
+ padding: 5px;
+}
+#msgScore{
+	float:right;
+	font-weight: bold;
+}

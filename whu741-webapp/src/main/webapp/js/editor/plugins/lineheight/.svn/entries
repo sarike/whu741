@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="13"
+   name=""
+   committed-date="2012-03-12T12:27:57.691247Z"
+   url="https://whu741.googlecode.com/svn/trunk/whu741/WebRoot/js/editor/plugins/lineheight"
+   last-author="rusb@rusb.net"
+   kind="dir"
+   uuid="d1c1b903-bc57-b77a-c2b8-a65115845111"
+   repos="https://whu741.googlecode.com/svn"
+   revision="89"/>
+<entry
+   committed-rev="13"
+   name="lineheight.js"
+   text-time="2012-03-12T07:16:55.046875Z"
+   committed-date="2012-03-12T12:27:57.691247Z"
+   checksum="de059c65b33c5edd9d7bea7a13c9cb7a"
+   last-author="rusb@rusb.net"
+   kind="file"/>
+</wc-entries>

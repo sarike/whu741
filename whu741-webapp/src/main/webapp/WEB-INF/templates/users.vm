@@ -1,0 +1,3 @@
+			#foreach($user in $userPager.voList)
+				<tr><td style="text-align: left;color: red;">$user.nickname ($user.username)</td></tr>
+			#end

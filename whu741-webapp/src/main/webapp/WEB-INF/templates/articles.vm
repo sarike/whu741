@@ -1,0 +1,20 @@
+		
+		#foreach($article in $articlePager.voList)
+			<tr>
+				<td style="text-align: left;"><a href="./viewArticle.do?articleid=$article.articleId" title="$article.articleTitle">[ $article.pubTime ]  $article.articleTitle</a>
+					#if($article.toped)
+						<i>置顶</i>
+					#end
+					#if($article.advised)
+						<i>推荐</i>
+					#end
+				</td>
+			</tr>
+		#end
+		#if($articlePager.voList.size()==0)
+			<tr>
+				<td style="text-align: center;padding: 10px;">
+								太TMD懒了，一篇文章都木有...
+				</td>
+			</tr>
+		#end

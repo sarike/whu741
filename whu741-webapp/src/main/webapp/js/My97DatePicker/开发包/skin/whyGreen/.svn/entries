@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="33"
+   name=""
+   committed-date="2012-03-13T13:41:29.059657Z"
+   url="https://whu741.googlecode.com/svn/trunk/whu741/WebRoot/js/My97DatePicker/%E5%BC%80%E5%8F%91%E5%8C%85/skin/whyGreen"
+   last-author="rusb@rusb.net"
+   kind="dir"
+   repos="https://whu741.googlecode.com/svn"
+   revision="89"/>
+<entry
+   committed-rev="33"
+   name="img.gif"
+   text-time="2012-03-13T02:49:39.296875Z"
+   committed-date="2012-03-13T13:41:29.059657Z"
+   checksum="d0570f39ca217fbf02f461ef0096d657"
+   last-author="rusb@rusb.net"
+   kind="file"
+   prop-time="2012-03-13T13:39:46.062500Z"/>
+<entry
+   committed-rev="33"
+   name="datepicker.css"
+   text-time="2012-03-13T02:49:39.296875Z"
+   committed-date="2012-03-13T13:41:29.059657Z"
+   checksum="874c63d427983af488eff57ef5ec606c"
+   last-author="rusb@rusb.net"
+   kind="file"/>
+<entry
+   committed-rev="33"
+   name="Thumbs.db"
+   text-time="2012-03-13T02:49:39.296875Z"
+   committed-date="2012-03-13T13:41:29.059657Z"
+   checksum="e93b2a6ea424543f4ac34e8df1e5f761"
+   last-author="rusb@rusb.net"
+   kind="file"
+   prop-time="2012-03-13T13:39:46.125000Z"/>
+<entry
+   committed-rev="33"
+   name="bg.jpg"
+   text-time="2012-03-13T02:49:39.296875Z"
+   committed-date="2012-03-13T13:41:29.059657Z"
+   checksum="21ec42adb09c1d8a4c09248f8325e53c"
+   last-author="rusb@rusb.net"
+   kind="file"
+   prop-time="2012-03-13T13:39:45.921875Z"/>
+</wc-entries>

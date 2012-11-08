@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="13"
+   name=""
+   committed-date="2012-03-12T12:27:57.691247Z"
+   url="https://whu741.googlecode.com/svn/trunk/whu741/WebRoot/js/editor/plugins/code"
+   last-author="rusb@rusb.net"
+   kind="dir"
+   uuid="d1c1b903-bc57-b77a-c2b8-a65115845111"
+   repos="https://whu741.googlecode.com/svn"
+   revision="89"/>
+<entry
+   committed-rev="13"
+   name="shCoreDefault.css"
+   text-time="2012-03-12T11:05:01.437500Z"
+   committed-date="2012-03-12T12:27:57.691247Z"
+   checksum="59ac5fd29f70cd58fa40d0d09cdca405"
+   last-author="rusb@rusb.net"
+   kind="file"/>
+<entry
+   committed-rev="13"
+   name="code.js"
+   text-time="2012-03-12T11:48:53.953125Z"
+   committed-date="2012-03-12T12:27:57.691247Z"
+   checksum="ae8b94ab67add95a468ac4dc71c67391"
+   last-author="rusb@rusb.net"
+   kind="file"/>
+<entry
+   committed-rev="13"
+   name="shBrushJava.js"
+   text-time="2012-03-12T11:19:47.015625Z"
+   committed-date="2012-03-12T12:27:57.691247Z"
+   checksum="c374a5018773714f971543dc273fceed"
+   last-author="rusb@rusb.net"
+   kind="file"/>
+<entry
+   committed-rev="13"
+   name="shCore.js"
+   text-time="2012-03-12T11:03:55.765625Z"
+   committed-date="2012-03-12T12:27:57.691247Z"
+   checksum="488ca2f56c37f84283fc9be63219304f"
+   last-author="rusb@rusb.net"
+   kind="file"/>
+</wc-entries>
